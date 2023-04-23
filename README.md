@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @compX44
 - 👀 I’m interested in cloud technology, apps, and learning more about what I can do with code.
-- 🌱 I’m currently learning Python and web development
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me ...
 
